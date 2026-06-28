@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1e0030/krp/v1/juan/4
+seq: 4
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0030_WYG_004-1a, image: WYG0148/WYG0148-0499a.png}
+body:
+  text: 春秋五禮例宗卷五宋張大亨撰闕春秋五禮例宗卷五
+  hash: sha256:089218930d2552b6bdf9ef2ae64d474d2105c2f450b3414de18f3b312277b02a
+metadata:
+  title: 春秋五禮例宗,卷五,卷四,卷六
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:13:30.468860'
+  juan_title: 卷五原闕
+  source:
+    repository: kanripo
+    path: KR1e0030/KR1e0030_004.txt
+hash: sha256:479b0dbe16a0015f1ddc3be4f92aa9539d5d8823a0c7131fc054c67d5ca2e475
